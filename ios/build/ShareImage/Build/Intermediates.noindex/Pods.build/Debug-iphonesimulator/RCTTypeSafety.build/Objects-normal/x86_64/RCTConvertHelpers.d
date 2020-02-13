@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/vuongvanhuy/React-Native/ShareImage/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/vuongvanhuy/React-Native/ShareImage/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Folly/folly/Optional.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Folly/folly/Portability.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Folly/folly/CPortability.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Folly/folly/Traits.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Folly/folly/Utility.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/vuongvanhuy/React-Native/ShareImage/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h
